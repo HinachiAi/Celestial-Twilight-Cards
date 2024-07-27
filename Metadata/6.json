@@ -1,0 +1,63 @@
+{
+    "name": "The Ethereal Maiden",
+    "description": "The Ethereal Maiden card is a gentle reminder of the beauty in transformation and the importance of approaching life’s changes with grace and dignity.",
+    "external_url": null,
+    "image": "https://github.com/HinachiAi/Celestial-Twilight-Cards/raw/main/Images/%5BMythic%5D%20Celestial%20Twilight%20-%20I%20-%20The%20Ethereal%20Maiden.gif",
+    "attributes": [
+        {
+            "display_type": null,
+            "trait_type": "Variant",
+            "value": "Celestial Twilight"
+        },
+        {
+            "display_type": null,
+            "trait_type": "Series",
+            "value": "1st Series"
+        },
+        {
+            "display_type": null,
+            "trait_type": "Edition",
+            "value": "Reserve"
+        },
+        {
+            "display_type": null,
+            "trait_type": "Arcana Number",
+            "value": "001"
+        },
+        {
+            "display_type": null,
+            "trait_type": "Arcana Title",
+            "value": "The Ethereal Maiden"
+        },
+        {
+            "display_type": null,
+            "trait_type": "Arcana Type",
+            "value": "Major"
+        },
+        {
+            "display_type": null,
+            "trait_type": "Rarity",
+            "value": "Mythic"
+        },
+        {
+            "display_type": null,
+            "trait_type": "Card Border",
+            "value": "Mythic"
+        },
+        {
+            "display_type": null,
+            "trait_type": "Card Visual",
+            "value": "Bloom"
+        },
+        {
+            "display_type": null,
+            "trait_type": "Animation",
+            "value": "Rotate"
+        },
+		{
+            "display_type": null,
+            "trait_type": "Identifier",
+            "value": "CTC"
+        }
+    ]
+}
