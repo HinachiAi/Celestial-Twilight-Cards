@@ -47,17 +47,22 @@
         {
             "display_type": null,
             "trait_type": "Card Visual",
-            "value": "Bloom"
+            "value": "Normal"
         },
         {
             "display_type": null,
-            "trait_type": "Animation",
-            "value": "Rotate"
+            "trait_type": "Animated",
+            "value": "Yes"
         },
 		{
             "display_type": null,
             "trait_type": "Identifier",
             "value": "CTC"
+        },
+        {
+            "display_type": null,
+            "trait_type": "Bloom",
+            "value": "Yes"
         }
     ]
 }

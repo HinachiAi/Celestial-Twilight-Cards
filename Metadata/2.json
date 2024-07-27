@@ -51,13 +51,18 @@
         },
         {
             "display_type": null,
-            "trait_type": "Animation",
-            "value": "None"
+            "trait_type": "Animated",
+            "value": "No"
         },
 		{
             "display_type": null,
             "trait_type": "Identifier",
             "value": "CTC"
+        },
+        {
+            "display_type": null,
+            "trait_type": "Bloom",
+            "value": "No"
         }
     ]
 }
